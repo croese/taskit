@@ -1,6 +1,3 @@
 require "taskit/version"
+require 'taskit/task'
 
-module Taskit
-  class Error < StandardError; end
-  # Your code goes here...
-end
